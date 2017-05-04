@@ -1,5 +1,7 @@
 # eslint-config-gsandf-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gsandf/eslint-config-gsandf-react.svg)](https://greenkeeper.io/)
+
 > GS&F's extendable ESLint configuration (full config with dependencies) for JSX/React projects
 
 ## Usage
