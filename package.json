@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gsandf-react",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "GS&F's extendable ESLint configuration (full config with dependencies) for JSX/React projects",
   "main": "eslintrc.js",
   "repository": "https://github.com/gsandf/eslint-config-gsandf.git",
