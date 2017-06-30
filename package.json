@@ -10,7 +10,7 @@
     "eslint": "^3.19.0"
   },
   "dependencies": {
-    "eslint-config-gsandf": "^0.1.2",
+    "eslint-config-gsandf": "^0.3.0",
     "eslint-plugin-react": "^6.10.3"
   }
 }
