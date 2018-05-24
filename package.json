@@ -1,8 +1,7 @@
 {
   "name": "eslint-config-gsandf-react",
-  "version": "1.0.2",
-  "description":
-    "GS&F's extendable ESLint configuration (full config with dependencies) for JSX/React projects",
+  "version": "1.1.0",
+  "description": "GS&F's extendable ESLint configuration (full config with dependencies) for JSX/React projects",
   "main": "eslintrc.js",
   "repository": "https://github.com/gsandf/eslint-config-gsandf.git",
   "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
