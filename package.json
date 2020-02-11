@@ -6,11 +6,27 @@
   "repository": "https://github.com/gsandf/eslint-config-gsandf.git",
   "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
   "license": "MIT",
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  },
   "peerDependencies": {
     "eslint": ">=3"
   },
   "dependencies": {
     "eslint-config-gsandf": "^2.0.0",
-    "eslint-plugin-react": "^7.8.0"
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "^3.3.0",
+    "eslint": "^6.8.0",
+    "esm": "^3.2.25",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "ava"
   }
 }
