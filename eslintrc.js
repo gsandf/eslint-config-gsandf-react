@@ -60,6 +60,13 @@ module.exports = {
     'react/jsx-equals-spacing': ['error', 'never'],
     'react/jsx-indent-props': ['error', 2],
     'react/jsx-indent': ['error', 2],
+    'react/jsx-key': [
+      'error',
+      {
+        checkFragmentShorthand: true,
+        checkKeyMustBeforeSpread: false
+      }
+    ],
     'react/jsx-no-comment-textnodes': 'error',
     'react/jsx-no-duplicate-props': 'error',
     'react/jsx-no-target-blank': 'error',
@@ -73,6 +80,7 @@ module.exports = {
     'react/no-did-update-set-state': 'error',
     'react/no-direct-mutation-state': 'error',
     'react/no-is-mounted': 'error',
+    'react/no-unescaped-entities': 'off',
     'react/no-unknown-property': 'error',
     'react/no-unused-prop-types': 'error',
     'react/prefer-es6-class': 'error',
