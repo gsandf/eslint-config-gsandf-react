@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.0.0] - 2021-06-28
+
+### Added
+
+- [react/jsx-key](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-key.md) for missing `key` prop
+
+### Changed
+
+- Upgraded [Standard from v14 to v16](https://github.com/standard/standard/blob/093b05608589e9345535db1f7d61cb5c4c006829/CHANGELOG.md)
+
 ## [2.0.0] - 2020-02-12
 
 ### Added
